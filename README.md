@@ -1,4 +1,4 @@
-<h1 align="center">This is an app made for an education purpose.</h1>
+<h1 align="center">This is an app made for educational purposes.</h1>
 
 ### Introduction
 
