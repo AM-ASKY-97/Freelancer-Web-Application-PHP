@@ -16,7 +16,7 @@
 <h3>Validation for login form with jQuery</h3>
 <img src="https://user-images.githubusercontent.com/89337309/199295162-7aeb0a1c-95c4-4d3e-abe9-ec326ab33a9e.png">
 
-<h3>Validation for login form with jQuery</h3>
+<h3>When a student provides an invalid username and password,</h3>
 <img src="https://user-images.githubusercontent.com/89337309/199296177-a620cb6e-1ede-42a8-b787-76e8678cd243.png">
 
 <h3>User Registration Page</h3>
