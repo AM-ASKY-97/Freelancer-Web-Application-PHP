@@ -2,7 +2,7 @@
 
 ### Introduction
 
-<p align="justify">can be accessed by the system administrator and students. Students can register on the system by providing their details. The administrator will provide a username and password to the students to log into the system. Registered students can login to the system with their provided username and password. And they can see the "Hello, username" message once they log into the system.</p>
+<p align="justify">It can be accessed by the system administrator and students. Students can register on the system by providing their details. The administrator will provide a username and password to the students to log into the system. Registered students can login to the system with their provided username and password. And they can see the "Hello, username" message once they log into the system.</p>
 
 <p align="justify">The features of this application are that every user input is properly validated; DOB and gender can be verified with NICs; and admins can enable or disable user accounts.</p>
 
